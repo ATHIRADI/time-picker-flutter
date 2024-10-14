@@ -1,11 +1,15 @@
-Time Picker App
+<h1>Time Picker</h1>
 
 https://github.com/user-attachments/assets/72e68903-fa16-4952-b05a-c9436b5c614c
 
-This Flutter project is a simple time picker application that allows users to select a time and display it on the screen. The app features a clean user interface with a time selection button and a "Clear" button to reset the selected time.
+<p>This project is a simple Flutter application that allows users to pick and display a time using a time picker widget. It includes functionality for selecting a time, displaying the selected time, and clearing the selection.</p>
 
-Key Features:
-Time Picker Functionality: The app includes a time picker that allows users to select a time via the native showTimePicker widget.
-Selected Time Display: Once the time is selected, it is displayed on the screen in a formatted string.
-Clear Selection: A "Clear" button appears after the user selects a time, allowing them to reset the selection back to "No time selected."
-State Management: The app manages the state of the selected time using setState, which updates the UI dynamically when the time is selected or cleared.
+<h2>Features</h2>
+    <ul>
+      <li>Allows users to open a time picker dialog and select a time.</li>
+      <li>Displays the selected time in a readable format.</li>
+      <li>Includes a "Clear" button to reset the selected time to its default state.</li>
+      <li>Responsive UI with a clean and minimal design using Flutter's widget system.</li>
+    </ul>
+
+
